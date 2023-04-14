@@ -2,6 +2,8 @@
 
 This is a real-time chat application built using Spring Boot framework, where users can communicate with each other. This application follows the principles of Model-View-Controller (MVC) architecture and uses REST APIs to perform CRUD operations on chat messages and user information.
 
+# Code Link: https://github.com/saurabhrajput3/Chat-Application/tree/main/chat-application/src/main/java/com/chatapplication/chat/application
+
 # Table of Contents
   -Features  
   -Tech Stack  
